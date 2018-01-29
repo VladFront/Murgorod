@@ -1,0 +1,31 @@
+/* SVG sprite */
+
+.icon-arrow-bottom,.icon-arrow-bottom\:regular{background-image:url('../img/icons.svg');background-position:0 0;background-repeat:no-repeat;width:18px;height:9px;display: inline-block;}
+.icon-arrow-ic,.icon-arrow-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -9px;background-repeat:no-repeat;width:9px;height:17px;display: inline-block;}
+.icon-arrow-list-ic,.icon-arrow-list-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -26px;background-repeat:no-repeat;width:13px;height:17px;display: inline-block;}
+.icon-call-ic,.icon-call-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -43px;background-repeat:no-repeat;width:16px;height:16px;display: inline-block;}
+.icon-cell-blue-ic,.icon-cell-blue-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -58px;background-repeat:no-repeat;width:15px;height:15px;display: inline-block;}
+.icon-cell-gray-ic,.icon-cell-gray-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -73px;background-repeat:no-repeat;width:16px;height:16px;display: inline-block;}
+.icon-fax-blue-ic,.icon-fax-blue-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -89px;background-repeat:no-repeat;width:16px;height:16px;display: inline-block;}
+.icon-fax-gray-ic,.icon-fax-gray-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -105px;background-repeat:no-repeat;width:16px;height:16px;display: inline-block;}
+.icon-fax-ic,.icon-fax-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -121px;background-repeat:no-repeat;width:16px;height:16px;display: inline-block;}
+.icon-form-ic,.icon-form-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -137px;background-repeat:no-repeat;width:15px;height:17px;display: inline-block;}
+.icon-map-ic,.icon-map-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -154px;background-repeat:no-repeat;width:16px;height:15px;display: inline-block;}
+.icon-post-gray-ic,.icon-post-gray-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -169px;background-repeat:no-repeat;width:17px;height:16px;display: inline-block;}
+.icon-post-ic,.icon-post-ic\:regular{background-image:url('../img/icons.svg');background-position:0 -185px;background-repeat:no-repeat;width:17px;height:17px;display: inline-block;}
+
+
+
+/* PNG sprite */
+.disease-ic1, .disease-ic2, .disease-ic3, .disease-ic4, .close-ic, 
+.slider-arrow-ic, .map-ic, .form-ic
+{ display: inline-block; background: url("../img/png-sprite.png") no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.disease-ic1 { background-position: -0px -0px; width: 57px; height: 48px; }
+.disease-ic2 { background-position: -0px -48px; width: 54px; height: 43px; }
+.disease-ic3 { background-position: -0px -91px; width: 54px; height: 54px; }
+.disease-ic4 { background-position: -0px -145px; width: 54px; height: 56px; }
+.close-ic { background-position: -0px -201px; width: 28px; height: 29px; }
+.slider-arrow-ic { background-position: -28px -201px; width: 18px; height: 45px; }
+.map-ic { background-position: -0px -230px; width: 16px; height: 15px; }
+.form-ic { background-position: -0px -245px; width: 15px; height: 17px; }
